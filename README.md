@@ -1,14 +1,7 @@
 # ![Portfolio](https://github.com/mohsin23441/Portfolio/blob/main/logo.png)
 
-# Jaydees-E-Commerce-
-
-This E-Commerce Website which shows my Front End Development skills 
-
-## Live Website
-You can view the live website at [Jaydees](https://jaydees.netlify.app/)
-
 ## Descripion
-As a front-end developer, I have experience working on e-commerce websites like [Jaydees](https://jaydees.netlify.app/). I have developed responsive and user-friendly interfaces using HTML, CSS, and JavaScript.With a focus on delivering a seamless user experience, I have optimized page load times and implemented various e-commerce features such as shopping carts and payment gateways.
+front-end development projects, including responsive websites, web applications, and user interfaces. Each project is built using modern web development technologies such as HTML, CSS, JavaScript, and is optimized for performance and accessibility. Feel free to explore the code, contribute, or use it as a reference for your own projects.
 
 ## Features
 ##### 1. Product catalog
