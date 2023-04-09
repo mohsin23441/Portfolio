@@ -1,4 +1,4 @@
-# Portfolio![JAYDEES](https://github.com/mohsin23441/Jaydees-E-Commerce-/blob/main/Images/Jaydees%20Logo.png)
+# ![Portfolio](https://github.com/mohsin23441/Portfolio/blob/main/logo.png)
 
 # Jaydees-E-Commerce-
 
